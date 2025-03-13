@@ -1,4 +1,4 @@
-주교재:  『linear-algebra 5ed』[Stephen Friedberg](2018)
+주교재:  『linear-algebra 5ed』<Stephen Friedberg> (2018) 
 
 부교재: 『finite-dimensional-linear-algebra』[Gockenbach, Mark S](2010)
 
