@@ -1,4 +1,4 @@
-# 스터디
+![everytime](https://github.com/user-attachments/assets/377e563d-4fa0-4ca4-8e38-3c3344b93930)# 스터디
 
 ### **스터디 목적**
 
@@ -17,4 +17,5 @@
 각 챕터별 강의를 한 명이 준비해옵니다.(뽑기로 중복 없이 모두가 할 수 있도록 선정할 것임) 칠판이나 공유 노트를 통해 한 명이 해당 서적의 한 챕터에 대해 한주에 강의를 하고 나머지 사람들은 강의에사 오류 및 보완 사항에 대해 피드백 합니다.
 
   *학부에서 수강신청을 하여 위의 스터디 과목들을 이미 들으신 분들에 국한하여 이 스터디 방법을 진  행하며 발표를 강요하지는 않습니다.
-![Uploading everytime.png…]()
+
+![everytime](https://github.com/user-attachments/assets/3679e06f-056c-4025-96a9-b3d7bd5546bc)
