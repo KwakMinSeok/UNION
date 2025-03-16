@@ -6,7 +6,7 @@
 
 ### **스터디(방법,날짜,시간)**
 
-- 방법: google meets
+- 방법: google meets (https://meet.google.com/hdt-yzjg-pgh)
 
 - 날짜: 2025.03.23
 
