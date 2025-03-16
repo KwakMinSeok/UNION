@@ -4,6 +4,8 @@
 ### **과제**
 - chapter1. The Real Numbers 학습
 
+- Exercise는 풀어오지 않으셔도 됩니다.
+
 ### **스터디(방법,날짜,시간)**
 
 - 방법: google meets (https://meet.google.com/hdt-yzjg-pgh)
