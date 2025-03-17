@@ -2,7 +2,10 @@
 - 곽민석
 
 ### **과제**
-- 1장 학습
+
+- Chapter1. Functions and Limits 학습
+
+- Exercise는 안 플어오셔도 됩니다.
   
 ### **스터디(장소,날짜,시간)**
 
