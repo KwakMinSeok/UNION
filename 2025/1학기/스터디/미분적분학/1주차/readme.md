@@ -5,7 +5,7 @@
 
 - Chapter1. Functions and Limits 학습
 
-- Exercise는 안 플어오셔도 됩니다.
+- Exercise는 풀어오지 않으셔도 됩니다.
   
 ### **스터디(장소,날짜,시간)**
 
