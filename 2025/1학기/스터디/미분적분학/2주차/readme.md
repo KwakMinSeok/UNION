@@ -18,7 +18,7 @@
   
 ### **스터디(장소,날짜,시간)**
 
-- 장소: (팀플레이스, 경북 경산시 청운로 20 3층, https://naver.me/FEUVSfVS)
+- 방법: google meets (https://meet.google.com/hdt-yzjg-pgh)
 
 - 날짜: 2025.03.29 토요일
 
