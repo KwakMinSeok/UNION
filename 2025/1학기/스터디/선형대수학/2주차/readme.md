@@ -13,7 +13,7 @@
 
 ### **스터디(장소,날짜,시간)**
 
-- 방법: google meets (https://meet.google.com/hdt-yzjg-pgh)
+- 방법: google meets (https://meet.google.com/rda-wwsp-srd)
 
 - 날짜: 2025.03.29
 
