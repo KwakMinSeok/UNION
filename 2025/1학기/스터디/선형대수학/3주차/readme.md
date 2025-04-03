@@ -3,7 +3,7 @@
 
 ### **과제**
 
-- Chapter2. Functions and Limits 학습
+- Chapter2. Matrix and Linear Equations 학습
 
 - Exercise는 풀어오지 않으셔도 됩니다.
   
