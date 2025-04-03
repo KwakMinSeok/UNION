@@ -19,4 +19,4 @@
 * (3)의 경우 학부에서 수강신청을 하여 위의 스터디 과목들을 이미 들으신 분들에 국한하여 이 스터디 방법을 진행하며 발표를 강요하지는 않습니다.
   
 ### **스터디 시간표**
-![everytime (1)](https://github.com/user-attachments/assets/0ae8379c-6e58-4838-80f3-0f8f2ffa36b4)
+![everytime (2)](https://github.com/user-attachments/assets/4784666f-cb2b-452c-89a8-e1851f46783f)
