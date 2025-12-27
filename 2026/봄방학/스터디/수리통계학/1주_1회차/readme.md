@@ -8,7 +8,7 @@
 -  p.23, 예 1.27 비복원 추출인 경우를 조합 없이 풀어보고, 비복원추출인데 조합을 사용할 수 있는 이유 설명
 -  연습문제 1장 풀기:
     - 2
-        - Hint1: $\sum_{1\le i<j\le m} 1<=> \mathbf{card}\{(i,j)\mid 1\le i<j\le m\}  <=>\binom{m}{2} = $
+        - Hint1: $\sum_{1 \le i < j \le m} 1 = \left| \{ (i, j) : 1 \le i < j \le m \} \right| = \binom{m}{2}$
         - Hint2: 이항정리
     - 3 (포함-제외-부등식:inclusion-exclusion-inequality 활용하여 풀기)
     - 4 (3번 활용하여 풀기)
