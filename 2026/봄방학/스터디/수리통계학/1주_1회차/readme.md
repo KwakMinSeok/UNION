@@ -10,7 +10,12 @@
     - 2
         - Hint1: $\sum_{1 \le i < j \le m} 1 = \left| \{ (i, j) : 1 \le i < j \le m \} \right| = \binom{m}{2}$
         - Hint2: 이항정리
-    - 3 (포함-제외-부등식:inclusion-exclusion-inequality 활용하여 풀기)
+    - 3 (불의 부등식을 일반화한 포함-제외-부등식:inclusion-exclusion-inequality을 증명하기(아래 참고))
+        - $P\left( \cup_{i=1}^{n} E_i \right) \le \sum_{i=1}^{n} P(E_i)$ (1항까지 $\Longleftrightarrow$ 불의 부등식)
+        - $P\left( \cup_{i=1}^{n} E_i \right) \ge \sum_{i=1}^{n} P(E_i) - \sum_{j < i} P(E_i E_j)$ (2항까지)
+        - $P\left( \cup_{i=1}^{n} E_i \right) \le \sum_{i=1}^{n} P(E_i) - \sum_{j < i} P(E_i E_j) + \sum_{k < j < i} P(E_i E_j E_k)$ (3항 까지)
+          
+        
     - 4 (3번 활용하여 풀기)
     - 5,6,7,8,...,12
   
