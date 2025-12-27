@@ -9,7 +9,7 @@
 -  연습문제 1장 풀기:
     - 3(2번 풀기전에 3번 먼저 풀기)
     - 2
-        - Hint1: $ sum_{1\le i<j\le m} 1\;=\;\operatorname{card}\Big\{(i,j)\,\big|\,1\le i<j\le m\Big\}\;=\;\binom{m}{2}$
+        - Hint1: $\sum_{1\le i<j\le m} 1<=> \mathbf{card}\{(i,j)\mid 1\le i<j\le m\}  <=>\binom{m}{2} = $
         - Hint2:
     - 4
   
@@ -30,4 +30,5 @@
 
 - 교재(pdf or 프린트)
 
-- 문제 풀이(본인이 한 것)
+- 문제 풀이(본인이 한 것
+
